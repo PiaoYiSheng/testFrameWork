@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>test_Dict</key>
+	<dict>
+		<key>service-host</key>
+		<string>192.168.1.1</string>
+		<key>service-port</key>
+		<integer>8080</integer>
+		<key>service-api</key>
+		<string>https://www.baidu.ccom</string>
+	</dict>
+</dict>
+</plist>
